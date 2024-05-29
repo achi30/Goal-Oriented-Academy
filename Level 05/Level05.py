@@ -1,0 +1,7 @@
+name = ("achi")
+language = ("georgia")
+color = ("green")
+country = ("georgia")
+hobby = ("programing")
+lastname = ("enukidze")
+print(name,language,color,country,hobby,lastname)
