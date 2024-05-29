@@ -1,2 +1,2 @@
-friends = "giorgi varazashvili,mate nibladze,"
+friends = "giorgi varazashvili,mate nibladze"
 print(friends)
